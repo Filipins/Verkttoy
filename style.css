@@ -3195,8 +3195,8 @@ input:focus {
   content: "";
   right: -8px;
   bottom: -10px;
-  content: '\f100';
-  font-family: 'Flaticon';
+  content: '\e67f';
+  font-family: 'Themify';
   height: 50px;
   width: 50px;
   background-color: #013840;
