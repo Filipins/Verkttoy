@@ -2188,6 +2188,9 @@ ul {
   line-height: 16px;
   font-weight: 400;
 }
+.main_menu .main-menu-item ul li .nav-link.active {
+ color: #008d72 !important;
+}
 
 /* line 20, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link:hover {
