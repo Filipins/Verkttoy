@@ -3197,7 +3197,7 @@ input:focus {
   position: absolute;
   content: "";
   right: -8px;
-  bottom: -10px;
+  bottom: 0px;
   content: '\e67f';
   font-family: 'Themify';
   height: 50px;
